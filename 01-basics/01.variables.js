@@ -11,8 +11,6 @@ because of issue of block scope and Functional Scope
 
 */
 
-
-
 accountEmail = "hell@gmail"
 accountPassword = "Brother"
 accountCity = "Mumbai"
